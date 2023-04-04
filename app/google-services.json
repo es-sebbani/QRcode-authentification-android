@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "480398091550",
+    "firebase_url": "https://refectoire-ac82a-default-rtdb.firebaseio.com",
+    "project_id": "refectoire-ac82a",
+    "storage_bucket": "refectoire-ac82a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480398091550:android:e3bfc0ac550c3287fcd50f",
+        "android_client_info": {
+          "package_name": "com.example.reefectoire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "480398091550-r6i9ibcd59du0dugn9t0j5o5qn6aa32a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.reefectoire",
+            "certificate_hash": "3403739bc3c59b7752a51741109aca397db327b8"
+          }
+        },
+        {
+          "client_id": "480398091550-l532ejiu802tr646vmukk1f2rsue9p8h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAI-qmrlO2H72TAuPZaXuKxuydCFq2b5Rk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "480398091550-l532ejiu802tr646vmukk1f2rsue9p8h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
